@@ -28,6 +28,13 @@ const portfolioData = [
         tech: ['Videos curtos', 'Tráfego pago', 'Cap Cut','After Effects' ],
         link: 'https://drive.google.com/drive/folders/1FpeKLh2a9bMJYJd6k3h9UCZvML2uWY3m'
     },
+    {
+        id: 5,
+        title: 'Curtas',
+        description: 'Imersão de Histórias.',
+        tech: ['Longos', 'After Effects' ],
+        link: 'https://www.youtube.com/watch?v=49bk2s8qJuU&list=LL&index=1&t=227s'
+    },
     // {
     //     id: 4,
     //     title: 'Ciberdefesa',
