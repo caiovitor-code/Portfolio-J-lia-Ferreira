@@ -1,35 +1,28 @@
 // Dados do portfólio para o carrossel
 const portfolioData = [
-    {
+   {
         id: 1,
         title: 'Designs Gráficos',
         description: 'Imagens para aumentar a credibilidade e confiança do seu négocio!',
         tech: ['Photoshop', 'Figma'],
-        link: 'https://www.instagram.com/p/DWO0n3zAA1B/?igsh=Y25vbGR4eW8wd3Np'
+        link: 'https://www.behance.net/gallery/245643923/Exemplos-de-Design'
     },
     {
         id: 2,
         title: 'Videos Curtos',
         description: 'Vídeos curtos para destacar seu projeto!',
         tech: ['Videos Curtos', 'TikTok', 'Instagram'],
-        link: 'https://www.instagram.com/reel/DV1DGUYhf2M/'
-    },
-    {
-        id: 3,
-        title: 'Motions',
-        description: 'Vídeos com mais edições, feitos para prender a atenção e geralmente sincronizados com a música.',
-        tech: ['Edição mais elaborada','Premiere','After Effects' ],
-        link: 'https://drive.google.com/drive/folders/1FpeKLh2a9bMJYJd6k3h9UCZvML2uWY3m'
+        link: 'https://www.instagram.com/reel/DV_VybHjVvL/'
     },
      {
-        id: 4,
+        id: 3,
         title: 'Promocionais',
-        description: 'Imersão completa do início ao fim, com edição envolvente e narrativa que prende a atenção.',
+        description: 'Imersão de propagadas para trafégo.',
         tech: ['Videos curtos', 'Tráfego pago', 'Cap Cut','After Effects' ],
         link: 'https://drive.google.com/drive/folders/1FpeKLh2a9bMJYJd6k3h9UCZvML2uWY3m'
     },
-    {
-        id: 5,
+      {
+        id: 4,
         title: 'Curtas',
         description: 'Imersão de Histórias.',
         tech: ['Longos', 'After Effects' ],
